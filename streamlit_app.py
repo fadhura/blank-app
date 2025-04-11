@@ -11,7 +11,7 @@ import io
 from PIL import Image
 
 # Set page configuration
-st.set_page_config(page_title="Fadhu Perodua Financing Calculator", layout="centered")
+st.set_page_config(page_title="My Perodua Financing Calculator", layout="centered")
 
 # Define car data
 car_data = {
